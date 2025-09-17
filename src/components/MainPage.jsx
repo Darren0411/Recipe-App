@@ -3,7 +3,7 @@ import Mealcards from './Mealcards';
 
 const MainPage = () => {
 
-  const [data,setdata] = useState();
+  const [data, setdata] = useState(undefined);
   const [search,setsearch] = useState(null);
   const [msg,setmsg] = useState("");
 
