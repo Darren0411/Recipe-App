@@ -4,7 +4,7 @@ A simple and fast recipe search app that lets you discover delicious dishes usin
 .
 Just enter a dish name, hit search, and explore recipes with images and details!
 
-🔗 Live Demo: Recipe App
+🔗 Live Demo: https://recipe-app-sepia-three.vercel.app/
 
 ✨ Features
 
